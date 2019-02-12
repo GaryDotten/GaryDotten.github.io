@@ -14,18 +14,18 @@ hr {
 }
 
 .faded {
-  color: rgba(226, 215, 215, 0.9);
+  color: rgb(255, 255, 255);
 }
 
 header.startup {
   background-position: center;
-  background-image: url("img001/unsplash.jpg");
+  background-image: url("img001/droseNY.jpg");
   background-size: cover;
   height: 100%;
 }
 
 header.startup hr {
-  margin-top: 200px;
+  margin-top: 265px;
   margin-bottom: 30px;
 }
 
